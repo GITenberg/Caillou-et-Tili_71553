@@ -1,0 +1,29 @@
+_repo: Caillou-et-Tili_71553
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2023-09-03'
+identifiers:
+  gutenberg: '71553'
+language: fr
+pgterms:marc904: http://archive.org/details/caillouettili00milluoft
+pgterms:marc905: 20230325031930mille
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bCalmann-Lévy, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Caillou et Tili
+url: http://www.gutenberg.org/ebooks/71553
